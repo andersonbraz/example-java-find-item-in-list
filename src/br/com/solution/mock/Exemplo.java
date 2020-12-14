@@ -22,7 +22,7 @@ public class Exemplo {
 		
 		cliente.setNome("Anderson Braz de Sousa");
 		cliente.setEmail("contato@andersonbraz.com");
-		cliente.setTelefone("+55061984217417");
+		cliente.setTelefone("+5506199998888");
 		cliente.setListPreferencias(listPreferencias);
 		
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
@@ -39,7 +39,7 @@ public class Exemplo {
 		
 		cliente.setNome("João Rossi Braz");
 		cliente.setEmail("joao@andersonbraz.com");
-		cliente.setTelefone("+55061984217417");
+		cliente.setTelefone("+5506199998888");
 		cliente.setListPreferencias(listPreferencias);
 		
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
